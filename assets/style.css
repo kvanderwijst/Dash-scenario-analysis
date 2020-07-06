@@ -1,0 +1,21 @@
+.h1, h1, .h2, h2, .h3, h3 {
+    font-weight: 300;
+}
+
+.h1, h1 {
+    font-size: 3rem;
+}
+
+.main-inputs-bar {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.modebar{
+    display: none !important;
+}
+
+hr.lessmargin {
+    margin: 0.3rem 0;
+}
